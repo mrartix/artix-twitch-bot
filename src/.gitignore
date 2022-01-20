@@ -1,0 +1,6 @@
+.env
+spotify-auth-store.json
+build/
+node_modules/
+.idea/
+dist/
